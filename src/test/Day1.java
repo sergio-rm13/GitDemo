@@ -10,6 +10,9 @@ public class Day1 {
 	@AfterTest
 	public void lastExecution() {
 		System.out.println("I will execute last");
+		System.out.println("I will execute last2");
+		System.out.println("I will execute last3");
+		
 		
 	}
 	@Test
